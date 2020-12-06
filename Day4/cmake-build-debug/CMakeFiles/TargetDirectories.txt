@@ -1,0 +1,3 @@
+C:/Users/aridr/CLionProjects/Advent-of-Code/Day4/cmake-build-debug/CMakeFiles/Day4.dir
+C:/Users/aridr/CLionProjects/Advent-of-Code/Day4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aridr/CLionProjects/Advent-of-Code/Day4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
